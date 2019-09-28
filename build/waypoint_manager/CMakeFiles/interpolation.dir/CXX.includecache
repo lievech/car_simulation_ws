@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lhn/hhh_ws/src/car_simulation_interface/waypoint_manager/include/tinyspline/tinyspline.h
+stddef.h
+-
+
+/home/lhn/hhh_ws/src/car_simulation_interface/waypoint_manager/include/tinyspline/tinysplinecpp.h
+tinyspline.h
+/home/lhn/hhh_ws/src/car_simulation_interface/waypoint_manager/include/tinyspline/tinyspline.h
+vector
+-
+string
+-
+
+/home/lhn/hhh_ws/src/car_simulation_interface/waypoint_manager/src/tinyspline/tinysplinecpp.cpp
+tinyspline/tinysplinecpp.h
+/home/lhn/hhh_ws/src/car_simulation_interface/waypoint_manager/src/tinyspline/tinyspline/tinysplinecpp.h
+stdlib.h
+-
+stdexcept
+-
+cstdio
+-
+

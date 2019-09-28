@@ -1,0 +1,2 @@
+set(lanelet_map_msgs_MESSAGE_FILES "/home/lhn/hhh_ws/src/car_simulation_interface/msgs/lanelet_map_msgs/msg/Node.msg;/home/lhn/hhh_ws/src/car_simulation_interface/msgs/lanelet_map_msgs/msg/Way.msg;/home/lhn/hhh_ws/src/car_simulation_interface/msgs/lanelet_map_msgs/msg/Regulatory.msg;/home/lhn/hhh_ws/src/car_simulation_interface/msgs/lanelet_map_msgs/msg/Lanelet.msg;/home/lhn/hhh_ws/src/car_simulation_interface/msgs/lanelet_map_msgs/msg/LaneletMap.msg")
+set(lanelet_map_msgs_SERVICE_FILES "")

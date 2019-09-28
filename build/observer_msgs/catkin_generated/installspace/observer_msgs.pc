@@ -1,0 +1,8 @@
+prefix=/home/lhn/hhh_ws/install
+
+Name: observer_msgs
+Description: Description of observer_msgs
+Version: 0.0.0
+Cflags: -I/home/lhn/hhh_ws/install/include
+Libs: -L/home/lhn/hhh_ws/install/lib 
+Requires: message_generation roscpp std_msgs

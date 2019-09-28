@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/plan2control_msgs/share/common-lisp/ros/plan2control_msgs/msg/Traj_Node.lisp

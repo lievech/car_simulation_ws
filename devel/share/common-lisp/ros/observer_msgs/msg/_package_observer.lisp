@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/observer_msgs/share/common-lisp/ros/observer_msgs/msg/_package_observer.lisp

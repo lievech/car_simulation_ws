@@ -1,0 +1,8 @@
+prefix=/home/lhn/hhh_ws/install
+
+Name: waypoint_manager
+Description: Description of waypoint_manager
+Version: 0.0.0
+Cflags: -I/home/lhn/hhh_ws/install/include
+Libs: -L/home/lhn/hhh_ws/install/lib 
+Requires: roscpp geometry_msgs nav_msgs anm_msgs roslib transform_tools

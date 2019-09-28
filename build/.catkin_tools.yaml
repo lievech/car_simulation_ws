@@ -1,0 +1,6 @@
+devel_space: /home/lhn/hhh_ws/devel
+install: false
+install_space: /home/lhn/hhh_ws/install
+profile: default
+source_space: /home/lhn/hhh_ws/src
+workspace: /home/lhn/hhh_ws

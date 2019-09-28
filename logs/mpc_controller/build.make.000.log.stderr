@@ -1,0 +1,11 @@
+[01m[K/home/lhn/hhh_ws/src/mpc_controller/src/mpc_controller.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::MPC_Controller::CalculatePolynomial(Eigen::VectorXd&, Eigen::VectorXd&)[m[K’:
+[01m[K/home/lhn/hhh_ws/src/mpc_controller/src/mpc_controller.cpp:243:33:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 6 has type ‘[01m[KEigen::EigenBase<Eigen::Matrix<double, -1, 1> >::Index {aka long int}[m[K’ [-Wformat=]
+    ,wayPtPolynomialCoeffs.size());
+[01;32m[K                                 ^[m[K
+[01m[K/home/lhn/hhh_ws/src/mpc_controller/src/mpc_controller.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::MPC_Controller::Solve(const VectorXd&)[m[K’:
+[01m[K/home/lhn/hhh_ws/src/mpc_controller/src/mpc_controller.cpp:458:123:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ki[m[K’ from ‘[01m[Kint[m[K’ to ‘[01m[Kdouble[m[K’ inside { } [-Wnarrowing]
+         double tmp[3] = {solution.x[px_range_begin + i], polyeval(wayPtPolynomialCoeffs,solution.x[px_range_begin + i]), i};
+[01;32m[K                                                                                                                           ^[m[K
+[01m[K/home/lhn/hhh_ws/src/mpc_controller/src/mpc_controller.cpp:465:91:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ki[m[K’ from ‘[01m[Kint[m[K’ to ‘[01m[Kdouble[m[K’ inside { } [-Wnarrowing]
+         double tmp[3] = {solution.x[px_range_begin + i], solution.x[py_range_begin + i], i};
+[01;32m[K                                                                                           ^[m[K

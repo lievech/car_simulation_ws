@@ -1,0 +1,8 @@
+prefix=/home/lhn/hhh_ws/devel/.private/control_msgs
+
+Name: control_msgs
+Description: Description of control_msgs
+Version: 0.0.0
+Cflags: -I/home/lhn/hhh_ws/devel/.private/control_msgs/include
+Libs: -L/home/lhn/hhh_ws/devel/.private/control_msgs/lib 
+Requires: message_generation roscpp std_msgs geometry_msgs

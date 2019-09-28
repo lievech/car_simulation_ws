@@ -1,0 +1,8 @@
+prefix=/home/lhn/hhh_ws/devel/.private/vehicle_force_msgs
+
+Name: vehicle_force_msgs
+Description: Description of vehicle_force_msgs
+Version: 0.0.0
+Cflags: -I/home/lhn/hhh_ws/devel/.private/vehicle_force_msgs/include
+Libs: -L/home/lhn/hhh_ws/devel/.private/vehicle_force_msgs/lib 
+Requires: roscpp rospy std_msgs message_runtime

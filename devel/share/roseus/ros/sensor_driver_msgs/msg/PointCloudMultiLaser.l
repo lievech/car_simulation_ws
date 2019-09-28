@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/sensor_driver_msgs/share/roseus/ros/sensor_driver_msgs/msg/PointCloudMultiLaser.l

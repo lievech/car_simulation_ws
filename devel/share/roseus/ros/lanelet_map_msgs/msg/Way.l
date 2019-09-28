@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/lanelet_map_msgs/share/roseus/ros/lanelet_map_msgs/msg/Way.l

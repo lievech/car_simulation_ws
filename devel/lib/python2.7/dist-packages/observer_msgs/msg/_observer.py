@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/observer_msgs/lib/python2.7/dist-packages/observer_msgs/msg/_observer.py

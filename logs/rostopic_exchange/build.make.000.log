@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target rostopic_exchange[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/rostopic_exchange.dir/src/fusion.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/rostopic_exchange.dir/src/kalman.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/lhn/hhh_ws/devel/.private/rostopic_exchange/lib/rostopic_exchange/rostopic_exchange[0m
+[100%] Built target rostopic_exchange

@@ -1,0 +1,6 @@
+Symlinking /home/lhn/hhh_ws/devel/share/waypoint_manager/cmake/waypoint_managerConfig-version.cmake
+Symlinking /home/lhn/hhh_ws/devel/share/waypoint_manager/cmake/waypoint_managerConfig.cmake
+Symlinking /home/lhn/hhh_ws/devel/lib/libinterpolation.so
+Symlinking /home/lhn/hhh_ws/devel/lib/pkgconfig/waypoint_manager.pc
+Symlinking /home/lhn/hhh_ws/devel/lib/waypoint_manager/route_publisher
+Symlinking /home/lhn/hhh_ws/devel/lib/waypoint_manager/waypoint_collection

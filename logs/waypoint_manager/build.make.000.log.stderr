@@ -1,0 +1,6 @@
+[01m[Kcc1:[m[K [01;35m[Kwarning: [m[Kcommand line option ‘[01m[K-std=c++11[m[K’ is valid for C++/ObjC++ but not for C
+[01m[Kcc1:[m[K [01;35m[Kwarning: [m[Kcommand line option ‘[01m[K-std=c++11[m[K’ is valid for C++/ObjC++ but not for C
+[01m[K/home/lhn/hhh_ws/src/car_simulation_interface/waypoint_manager/src/waypoint_collection_node.cpp:[m[K In member function ‘[01m[Kvoid WayPointCollection::TimerCb()[m[K’:
+[01m[K/home/lhn/hhh_ws/src/car_simulation_interface/waypoint_manager/src/waypoint_collection_node.cpp:59:114:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K((WayPointCollection*)this)->WayPointCollection::count_[m[K’ from ‘[01m[Kint[m[K’ to ‘[01m[Kdouble[m[K’ inside { } [-Wnarrowing]
+                 double tmp[3] = {vehicle_position_.pose.pose.position.x, vehicle_position_.pose.pose.position.y, count_};
+[01;32m[K                                                                                                                  ^[m[K

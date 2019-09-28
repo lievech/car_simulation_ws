@@ -1,0 +1,8 @@
+prefix=/home/lhn/hhh_ws/devel/.private/rostopic_exchange
+
+Name: rostopic_exchange
+Description: Description of rostopic_exchange
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lhn/hhh_ws/devel/.private/rostopic_exchange/lib 
+Requires: 

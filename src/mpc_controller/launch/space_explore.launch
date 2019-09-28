@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="mpc_controller" type="mpc_controller" name="mpc_controller" args="" output="screen" >
+         <remap from="/global_path" to="/drivable_region_node/semi_global_path" />
+    </node>
+</launch>

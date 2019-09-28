@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/plan2control_msgs/share/roseus/ros/plan2control_msgs/manifest.l

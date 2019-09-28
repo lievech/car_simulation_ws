@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rostopic_exchange</name>
+  <version>0.0.0</version>
+  <description>The rostopic_exchange package</description>
+  <maintainer email="jk@todo.todo">jk</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>anm_msgs</depend>
+  <depend>gazebo_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>prius_msgs</depend>
+  <depend>transform_tools</depend>
+  <depend>sensor_msgs</depend>
+  <depend>observer_msgs</depend>
+  <depend>dbw_mkz_msgs</depend>
+  <depend>vehicle_force_msgs</depend>
+</package>

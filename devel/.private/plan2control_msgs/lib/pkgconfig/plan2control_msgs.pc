@@ -1,0 +1,8 @@
+prefix=/home/lhn/hhh_ws/devel/.private/plan2control_msgs
+
+Name: plan2control_msgs
+Description: Description of plan2control_msgs
+Version: 0.0.1
+Cflags: -I/home/lhn/hhh_ws/devel/.private/plan2control_msgs/include
+Libs: -L/home/lhn/hhh_ws/devel/.private/plan2control_msgs/lib 
+Requires: roscpp message_runtime std_msgs geometry_msgs

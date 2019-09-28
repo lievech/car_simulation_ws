@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/observer_msgs/share/observer_msgs/cmake/observer_msgsConfig-version.cmake

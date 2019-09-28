@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/lanelet_map_msgs/include/lanelet_map_msgs/Way.h

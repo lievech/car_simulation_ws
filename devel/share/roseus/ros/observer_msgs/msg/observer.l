@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/observer_msgs/share/roseus/ros/observer_msgs/msg/observer.l

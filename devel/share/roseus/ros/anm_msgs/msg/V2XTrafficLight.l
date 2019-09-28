@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/anm_msgs/share/roseus/ros/anm_msgs/msg/V2XTrafficLight.l

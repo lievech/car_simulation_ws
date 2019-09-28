@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/anm_msgs/lib/pkgconfig/anm_msgs.pc

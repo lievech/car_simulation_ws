@@ -1,0 +1,3 @@
+[submodule "script/ivrcscripts"]
+	path = script/ivrcscripts
+	url = git@github.com:bit-ivrc/ivrcscripts.git

@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/vehicle_force_msgs/share/gennodejs/ros/vehicle_force_msgs/_index.js

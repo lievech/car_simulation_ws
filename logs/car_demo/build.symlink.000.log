@@ -1,0 +1,5 @@
+Symlinking /home/lhn/hhh_ws/devel/share/car_demo/cmake/car_demoConfig-version.cmake
+Symlinking /home/lhn/hhh_ws/devel/share/car_demo/cmake/car_demoConfig.cmake
+Symlinking /home/lhn/hhh_ws/devel/lib/libgazebo_ros_block_laser.so
+Symlinking /home/lhn/hhh_ws/devel/lib/libPriusHybridPlugin.so
+Symlinking /home/lhn/hhh_ws/devel/lib/pkgconfig/car_demo.pc

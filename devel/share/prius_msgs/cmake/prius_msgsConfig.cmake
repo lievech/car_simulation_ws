@@ -1,0 +1,1 @@
+/home/lhn/hhh_ws/devel/.private/prius_msgs/share/prius_msgs/cmake/prius_msgsConfig.cmake
